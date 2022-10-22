@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+D:\Todos los WS de desarrollo de aplicaciones web\WorkSpace_jeeV2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\335300156.index
+\03_Empleado_web\src\main\java
+D:\Todos los WS de desarrollo de aplicaciones web\WorkSpace_jeeV2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\942395943.index
+\03_Empleado_web\src\main\java
+D:\Todos los WS de desarrollo de aplicaciones web\WorkSpace_jeeV2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2880666827.index
+\02_Clientes\src\main\java

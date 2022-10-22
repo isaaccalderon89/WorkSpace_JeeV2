@@ -1,0 +1,18 @@
+import modelo.dao.EventoDaoImpl;
+import modelo.dao.IntEventoDao;
+import modelo.javabeans.Evento;
+
+public class TestEvento {
+
+	public static void main(String[] args) {
+		
+		IntEventoDao event = new EventoDaoImpl();
+		
+		for(Evento ele : event.buscarTodos())
+			System.out.println(ele);
+		
+		
+
+	}
+
+}

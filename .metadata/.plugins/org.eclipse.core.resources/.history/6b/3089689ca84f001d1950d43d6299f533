@@ -1,0 +1,27 @@
+import modelo.dao.EventoDaoImpl;
+import modelo.dao.IntEventoDao;
+import modelo.javabeans.Evento;
+import modelo.javabeans.Tipo;
+
+public class TestEvento {
+
+	public static void main(String[] args) {
+		
+		IntEventoDao evento = new EventoDaoImpl();
+		
+		for(Evento ele : evento.buscarTodos())
+			System.out.println(ele);
+		
+	evento.editarEvento(new Evento(4, "Boda de Martin y Lucia", "Boda en el campo", "2022-08-08", 240,
+				"C/ Diseminados, 12", "Cancelado", 'D', 180, 180, 110, null));
+		
+	for(Evento ele : evento.buscarTodos())
+		System.out.println(ele);
+	
+	for(Evento ele : evento.mostrarActivos(evento))
+		System.out.println(ele);
+		
+
+	}
+
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="99_Pruebas_tarea">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <property name="context-root" value="99_Pruebas_tarea"/>
+        <property name="java-output-path" value="/99_Pruebas_tarea/build/classes"/>
+    </wb-module>
+</project-modules>

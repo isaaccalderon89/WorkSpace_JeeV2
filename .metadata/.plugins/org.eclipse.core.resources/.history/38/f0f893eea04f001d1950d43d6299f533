@@ -1,0 +1,14 @@
+import modelo.dao.EventoDaoImpl;
+import modelo.dao.IntEventoDao;
+import modelo.javabeans.Evento;
+
+public class TestEvento {
+
+	public static void main(String[] args) {
+		
+		
+		for (Evento ele : 
+
+	}
+
+}
